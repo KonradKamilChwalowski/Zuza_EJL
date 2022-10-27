@@ -87,7 +87,7 @@ const Scenes = [
         ]
     },
     {
-        id: "Kim_jesteś",
+        id: "Kim_jestes",
         text: '"Jestem Zuzilin - dumną jednorożec, która potrafi spojrzeć w Twoją duszę. Przybyłam Cię ocenić!"',
         tlo: 'url("img/Zadowolona.png")',
         options: [
